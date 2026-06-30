@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Lohith Datta Varma Veepuri 👋</h1>
 
-<!--
-**lohith2507/lohith2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems;Building+with+Java%2C+Python%2C+C%23%2C+TypeScript;LLM+%2F+RAG+%2F+Agentic+AI+Tooling;Open+to+Software+Engineer+roles" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/lohithveepuri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/lohithv2507/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://lohithveepuri.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:lohithveepuri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🔭 Software Engineer with 3+ years building secure, large scale distributed systems
+- 🤖 Currently focused on LLM integration, RAG pipelines, and agentic AI tooling (LangGraph, MCP, function calling)
+- 🏢 Experience across Costco, AMD, and JPMorgan Chase (via TCS)
+- 🎓 M.S. in Computer Science, University of Central Missouri
+- 💡 Interested in developer tooling, AI/ML integration, and high availability backend systems
+- 📫 Reach me at lohithveepuri@gmail.com
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,cs,js,ts,react,fastapi,spring,docker,kubernetes,aws,azure,postgres,mongodb,git,github,githubactions,jenkins,postman&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> Snake graph requires a one-time GitHub Actions workflow (file provided separately: `snake.yml`). It auto-generates and updates itself daily.
+
+---
+
+### 🏆 Featured Projects
+
+- **AI-Powered Financial Insights Dashboard** — RAG pipeline over transaction data using FastAPI, React, OpenAI API, and PostgreSQL, cutting hallucinations by 40 percent
+- **Intelligent Code Review Assistant** — Agentic LangGraph tool that reviews PRs, flags vulnerabilities, and posts GitHub feedback, cutting manual review time by 50 percent
+
+---
+
+<p align="center"><i>Thanks for visiting my profile!</i></p>
