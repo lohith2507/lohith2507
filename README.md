@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Software Engineer with 3+ years building secure, large scale distributed systems
+- 🔭 Software Engineer with 5+ years building secure, large scale distributed systems
 - 🤖 Currently focused on LLM integration, RAG pipelines, and agentic AI tooling (LangGraph, MCP, function calling)
 - 🏢 Experience across Costco, AMD, and JPMorgan Chase (via TCS)
 - 🎓 M.S. in Computer Science, University of Central Missouri
