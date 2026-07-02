@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems;Building+with+Java%2C+Python%2C+C%23%2C+TypeScript;LLM+%2F+RAG+%2F+Agentic+AI+Tooling;Open+to+Software+Engineer+roles" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems;Building+with+Java[...]"
   </a>
 </p>
 
@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lohith2507E&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lohith2507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith2507&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -68,7 +68,7 @@
 
 ## AI for Predictive Healthcare Diagnosis
 <p align="center">
-  <img src=".github/workflows/pipeline.svg" alt="Animated overview of the diagnosis pipeline: patient input, preprocessing, model comparison, best-model selection, and explainable results" width="100%" />
+  <img src=".github/workflows/pipeline.svg" alt="Animated overview of the diagnosis pipeline: patient input, preprocessing, model comparison, best-model selection, and explainable results" width="100%[...]"
 </p>
 
 ---
