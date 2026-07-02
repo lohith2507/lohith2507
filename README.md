@@ -59,16 +59,16 @@
 
 ### 🏆 Featured Projects
 
-## AI for Predictive Healthcare Diagnosis
-<p align="center">
-  <img src=".github/workflows/pipeline.svg" alt="Animated overview of the diagnosis pipeline: patient input, preprocessing, model comparison, best-model selection, and explainable results" width="100%" />
-</p>
-
 ## 🤖 Chitti
 ## Your personal AI assistant that actually *runs* your PC.
 
 <p align="center">
   <img src=".github/workflows/chitti.svg" alt="Phone voice command opening Netflix and playing Spider-Man on the PC" width="100%" />
+</p>
+
+## AI for Predictive Healthcare Diagnosis
+<p align="center">
+  <img src=".github/workflows/pipeline.svg" alt="Animated overview of the diagnosis pipeline: patient input, preprocessing, model comparison, best-model selection, and explainable results" width="100%" />
 </p>
 
 ---
