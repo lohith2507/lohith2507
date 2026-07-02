@@ -29,7 +29,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,cs,js,ts,react,fastapi,spring,docker,kubernetes,aws,azure,postgres,mongodb,git,github,githubactions,jenkins,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ai,llm,claude,rag,vectordb,java,py,cs,js,ts,react,fastapi,spring,docker,kubernetes,aws,azure,postgres,mongodb,git,github,githubactions,jenkins,postman&theme=dark" />
 </p>
 
 ---
