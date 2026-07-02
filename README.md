@@ -68,7 +68,7 @@
 ## Your personal AI assistant that actually *runs* your PC.
 
 <p align="center">
-  <img src="docs/chitti.svg" alt="Phone voice command opening Netflix and playing Spider-Man on the PC" width="100%" />
+  <img src=".github/workflows/chitti.svg" alt="Phone voice command opening Netflix and playing Spider-Man on the PC" width="100%" />
 </p>
 
 ---
