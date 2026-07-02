@@ -58,7 +58,14 @@
 ---
 
 ### 🏆 Featured Projects
+## AI for Predictive Healthcare Diagnosis
+<p align="center">
+  <img src=".github/workflows/pipeline.svg" alt="Animated overview of the diagnosis pipeline: patient input, preprocessing, model comparison, best-model selection, and explainable results" width="100%" />
+</p>
 
+<p align="center"><sub>The pipeline lights up stage by stage — this animation renders live on GitHub.</sub></p>
+
+---
 - **AI-Powered Financial Insights Dashboard** — RAG pipeline over transaction data using FastAPI, React, OpenAI API, and PostgreSQL, cutting hallucinations by 40 percent
 - **Intelligent Code Review Assistant** — Agentic LangGraph tool that reviews PRs, flags vulnerabilities, and posts GitHub feedback, cutting manual review time by 50 percent
 
