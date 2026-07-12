@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems;Building+with+Java[...]"
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems;Building+with+Java;Integrating+LLMs+%26+Agentic+AI" />
   </a>
 </p>
 
@@ -68,7 +68,14 @@
 
 ## AI for Predictive Healthcare Diagnosis
 <p align="center">
-  <img src=".github/workflows/pipeline.svg" alt="Animated overview of the diagnosis pipeline: patient input, preprocessing, model comparison, best-model selection, and explainable results" width="100%[...]"
+  <img src=".github/workflows/pipeline.svg" alt="Animated overview of the diagnosis pipeline: patient input, preprocessing, model comparison, best-model selection, and explainable results" width="100%" />
+</p>
+
+## 🧠 RecommendAI (AI-Based Product Recommendation System)
+## Multi-engine e-commerce recommendation dashboard with real-time A/B testing and AI assistant.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lohith2507/ml-product-recommendations/main/demo.webp" alt="E-commerce recommendation system dashboard showing SVD, Content-Based, AI Hybrid recommendations, and live analytics" width="100%" />
 </p>
 
 ---
