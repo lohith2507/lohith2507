@@ -17,7 +17,7 @@
 
 - 🔭 Software Engineer with 5+ years building secure, large-scale distributed systems
 - 🤖 Currently focused on LLM integration, RAG pipelines, and agentic AI tooling (LangGraph, MCP, function calling)
-- 🏢 Experience across Costco, AMD, and JPMorgan Chase
+- 🏢 Experience across Netflix, AMD, and JPMorgan Chase
 - 🎓 M.S. in Computer Science, University of Central Missouri
 - 💡 Interested in developer tooling, AI/ML integration, and high-availability backend systems
 - 📫 Reach me at lohithveepuri@gmail.com
