@@ -1,7 +1,7 @@
 # Hi, I'm Lohith Datta Varma Veepuri 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems;LLM+Integration+%7C+Agentic+AI;Backend+%26+Cloud+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems;LLM+Integration+%7C+AI+Tooling;Building+Scalable+Systems" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -60,16 +60,8 @@
 #### 🤖 Chitti — Personal AI Assistant
 Your personal AI assistant that can interact with your PC to automate tasks and workflows.
 
-<p align="center">
-  <img src=".github/workflows/chitti.svg" alt="Chitti demo" width="100%" />
-</p>
-
 #### AI for Predictive Healthcare Diagnosis
 An end-to-end pipeline for predictive healthcare diagnosis including preprocessing, model comparison, and explainable results.
-
-<p align="center">
-  <img src=".github/workflows/pipeline.svg" alt="Healthcare pipeline overview" width="100%" />
-</p>
 
 #### 🧠 RecommendAI — AI-Based Product Recommendation System
 Multi-engine e-commerce recommendation dashboard with real-time A/B testing and an AI assistant.
