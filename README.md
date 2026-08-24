@@ -1,7 +1,7 @@
 # Hi, I'm Lohith Datta Varma Veepuri 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems;LLM+Integration+%7C+AI+Tooling;Building+Scalable+Systems" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems;LLM+Integration+%7C+[...]
 </p>
 
 <p align="center">
@@ -61,13 +61,13 @@
 
 ### 🏆 Featured Projects
 
-#### 🤖 Chitti — Personal AI Assistant
+#### 🤖 Chitti - Personal AI Assistant
 Your personal AI assistant that can interact with your PC to automate tasks and workflows.
 
 #### AI for Predictive Healthcare Diagnosis
 An end-to-end pipeline for predictive healthcare diagnosis including preprocessing, model comparison, and explainable results.
 
-#### 🧠 RecommendAI — AI-Based Product Recommendation System
+#### 🧠 RecommendAI - AI-Based Product Recommendation System
 Multi-engine e-commerce recommendation dashboard with real-time A/B testing and an AI assistant.
 
 <p align="center">
@@ -76,8 +76,8 @@ Multi-engine e-commerce recommendation dashboard with real-time A/B testing and 
 
 ---
 
-- **AI-Powered Financial Insights Dashboard** — RAG pipeline over transaction data using FastAPI, React, OpenAI API, and PostgreSQL, reducing hallucinations and improving result accuracy
-- **Intelligent Code Review Assistant** — Agentic LangGraph tool that reviews PRs, flags vulnerabilities, and posts GitHub feedback, reducing manual review time
+- **AI-Powered Financial Insights Dashboard** - RAG pipeline over transaction data using FastAPI, React, OpenAI API, and PostgreSQL, reducing hallucinations and improving result accuracy
+- **Intelligent Code Review Assistant** - Agentic LangGraph tool that reviews PRs, flags vulnerabilities, and posts GitHub feedback, reducing manual review time
 
 ---
 
