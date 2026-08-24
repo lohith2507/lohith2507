@@ -35,12 +35,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats-git-main-anurag90s-projects.vercel.app/api?username=lohith2507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img alt="Top Languages" src="https://github-readme-stats-git-main-anurag90s-projects.vercel.app/api/top-langs/?username=lohith2507&layout=compact&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lohith2507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith2507&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img alt="Contribution Streak" src="https://streak-stats.demolab.com/?user=lohith2507&theme=tokyonight&hide_border=true" />
+  <img alt="Contribution Streak" src="https://streak-stats.demolab.com?user=lohith2507&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
