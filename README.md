@@ -35,12 +35,16 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lohith2507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith2507&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/lohith2507">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lohith2507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/lohith2507">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith2507&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
-  <img alt="Contribution Streak" src="https://streak-stats.demolab.com?user=lohith2507&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=lohith2507&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </div>
 
 ---
