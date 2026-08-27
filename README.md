@@ -64,8 +64,16 @@
 #### 🤖 Chitti - Personal AI Assistant
 Your personal AI assistant that can interact with your PC to automate tasks and workflows.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/main/.github/workflows/chitti.svg" alt="Chitti architecture" width="100%" />
+</p>
+
 #### AI for Predictive Healthcare Diagnosis
 An end-to-end pipeline for predictive healthcare diagnosis including preprocessing, model comparison, and explainable results.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/main/.github/workflows/pipeline.svg" alt="Healthcare diagnosis pipeline" width="100%" />
+</p>
 
 #### 🧠 RecommendAI - AI-Based Product Recommendation System
 Multi-engine e-commerce recommendation dashboard with real-time A/B testing and an AI assistant.
