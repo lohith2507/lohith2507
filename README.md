@@ -60,21 +60,21 @@
 
 ### 🏆 Featured Projects
 
-#### 🤖 Chitti - Personal AI Assistant
+#### 🤖 [Chitti - Personal AI Assistant](https://github.com/lohith2507/Chitti)
 Your personal AI assistant that can interact with your PC to automate tasks and workflows.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/main/.github/workflows/chitti.svg" alt="Chitti architecture" width="100%" />
 </p>
 
-#### AI for Predictive Healthcare Diagnosis
+#### [AI for Predictive Healthcare Diagnosis](https://github.com/lohith2507/ai-healthcare-diagnosis)
 An end-to-end pipeline for predictive healthcare diagnosis including preprocessing, model comparison, and explainable results.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/main/.github/workflows/pipeline.svg" alt="Healthcare diagnosis pipeline" width="100%" />
 </p>
 
-#### 🧠 RecommendAI - AI-Based Product Recommendation System
+#### 🧠 [RecommendAI - AI-Based Product Recommendation System](https://github.com/lohith2507/ml-product-recommendations)
 Multi-engine e-commerce recommendation dashboard with real-time A/B testing and an AI assistant.
 
 <p align="center">
@@ -83,7 +83,7 @@ Multi-engine e-commerce recommendation dashboard with real-time A/B testing and 
 
 ---
 
-- **AI-Powered Financial Insights Dashboard** - RAG pipeline over transaction data using FastAPI, React, OpenAI API, and PostgreSQL, reducing hallucinations and improving result accuracy
+- **[AI-Powered Financial Insights Dashboard](https://github.com/lohith2507/rag-financial-dashboard)** - RAG pipeline over transaction data using FastAPI, React, OpenAI API, and PostgreSQL, reducing hallucinations and improving result accuracy
 - **Intelligent Code Review Assistant** - Agentic LangGraph tool that reviews PRs, flags vulnerabilities, and posts GitHub feedback, reducing manual review time
 
 ---
