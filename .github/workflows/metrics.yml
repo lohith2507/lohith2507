@@ -1,0 +1,121 @@
+name: Language Distribution Chart
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-language-chart:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests matplotlib pillow
+
+      - name: Generate language chart
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        run: |
+          python3 << 'EOF'
+          import requests
+          import json
+          import matplotlib.pyplot as plt
+          from datetime import datetime
+          import os
+          
+          username = os.getenv('USERNAME')
+          token = os.getenv('GITHUB_TOKEN')
+          
+          headers = {'Authorization': f'token {token}', 'Accept': 'application/vnd.github.v3+json'}
+          
+          # Fetch repositories
+          repos_url = f'https://api.github.com/users/{username}/repos?type=owner&per_page=100'
+          repos = requests.get(repos_url, headers=headers).json()
+          
+          languages = {}
+          
+          for repo in repos:
+              if repo['fork']:
+                  continue
+              lang_url = repo['languages_url']
+              lang_data = requests.get(lang_url, headers=headers).json()
+              for lang, bytes_count in lang_data.items():
+                  languages[lang] = languages.get(lang, 0) + bytes_count
+          
+          # Sort by usage
+          sorted_langs = sorted(languages.items(), key=lambda x: x[1], reverse=True)[:10]
+          langs = [item[0] for item in sorted_langs]
+          values = [item[1] for item in sorted_langs]
+          
+          # Create chart
+          fig, ax = plt.subplots(figsize=(12, 7), facecolor='#0d1117')
+          ax.set_facecolor('#0d1117')
+          
+          colors = ['#58a6ff', '#79c0ff', '#a371f7', '#d296ff', '#ffa657', '#ff7b72', '#ff6e40', '#ffa28b', '#7ee787', '#56d364']
+          
+          wedges, texts, autotexts = ax.pie(values, labels=langs, autopct='%1.1f%%', startangle=90, colors=colors[:len(langs)])
+          
+          for autotext in autotexts:
+              autotext.set_color('white')
+              autotext.set_fontsize(10)
+              autotext.set_fontweight('bold')
+          
+          for text in texts:
+              text.set_color('white')
+              text.set_fontsize(11)
+              text.set_fontweight('bold')
+          
+          ax.set_title('Language Distribution', color='white', fontsize=16, fontweight='bold', pad=20)
+          
+          plt.tight_layout()
+          
+          # Create output directory
+          os.makedirs('output', exist_ok=True)
+          
+          # Save as PNG first
+          plt.savefig('output/language-chart.png', bbox_inches='tight', facecolor='#0d1117', dpi=100)
+          
+          # Convert PNG to SVG using a simple method
+          import base64
+          with open('output/language-chart.png', 'rb') as f:
+              img_data = base64.b64encode(f.read()).decode()
+          
+          svg_content = f'''<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="700" viewBox="0 0 1200 700">
+            <defs>
+              <style>
+                body {{ background-color: #0d1117; }}
+              </style>
+            </defs>
+            <image xlink:href="data:image/png;base64,{img_data}" width="1200" height="700" />
+          </svg>'''
+          
+          with open('output/language-chart.svg', 'w') as f:
+              f.write(svg_content)
+          
+          print("Language chart generated successfully!")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/language-chart.svg
+          git commit -m "Update language distribution chart" --allow-empty
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
