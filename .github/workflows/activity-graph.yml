@@ -2,11 +2,8 @@ name: GitHub Activity Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch: {}
-  push:
-    branches:
-      - main
 
 jobs:
   build-graph:
@@ -14,30 +11,28 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout output branch
         uses: actions/checkout@v4
+        with:
+          ref: output
 
       - name: Generate activity graph
-        uses: ashutosh00710/github-readme-activity-graph@main
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          user_name: ${{ github.repository_owner }}
-          bg_color: 1a1b27
-          color: 58a6ff
-          line: 58a6ff
-          point: 58a6ff
-          area_color: 29454e
-          area: true
-          hide_border: true
-          custom_title: Commit Activity
-          output_file: output/github-readme-activity-graph.svg
+          username: ${{ github.repository_owner }}
+          options: bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff&area_color=29454e&area=true&hide_border=true&custom_title=Commit%20Activity
+          output_path: github-readme-activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit and push changes
+      - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output/github-readme-activity-graph.svg
-          git commit -m "Update GitHub activity graph" --allow-empty
-          git push origin main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+          git add github-readme-activity-graph.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update GitHub activity graph"
+          git pull --rebase origin output || true
+          git push origin HEAD:output
