@@ -48,11 +48,6 @@
   <img src="https://streak-stats.demolab.com?user=lohith2507&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </div>
 
-#### GitHub Metrics
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/output/metrics.svg" alt="GitHub Metrics" />
-</div>
-
 ---
 
 ### 🐍 Contribution Animations
@@ -76,13 +71,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lohith2507&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" alt="Trophy" />
 </p>
-
----
-
-### 📈 Language Distribution
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/output/language-chart.svg" alt="Language Chart" />
-</div>
 
 ---
 
