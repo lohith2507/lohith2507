@@ -1,7 +1,7 @@
 # Hi, I'm Lohith Datta Varma Veepuri 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems;LLM+Integration+%7C+[...]
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Distributed+Systems;LLM+Integration+%7C+AI+Agentic+Systems;Full-Stack+Developer+%7C+Cloud+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,8 +31,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Analytics
 
+#### Overall Statistics
 <div align="center">
   <a href="https://github.com/lohith2507">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lohith2507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -42,23 +43,50 @@
   </a>
 </div>
 
+#### Contribution Streak
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=lohith2507&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </div>
 
+#### GitHub Metrics
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/output/metrics.svg" alt="GitHub Metrics" />
+</div>
+
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Animations
 
+#### Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
 > The snake graph is generated daily by a GitHub Actions workflow (see .github/workflows/snake.yml in this repository).
 
+#### Activity Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/output/github-readme-activity-graph.svg" alt="Commit Activity Graph" />
+</p>
+
 ---
 
-### 🏆 Featured Projects
+### 🏆 Achievements & Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lohith2507&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" alt="Trophy" />
+</p>
+
+---
+
+### 📈 Language Distribution
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/output/language-chart.svg" alt="Language Chart" />
+</div>
+
+---
+
+### 🎯 Featured Projects
 
 #### 🤖 [Chitti - Personal AI Assistant](https://github.com/lohith2507/Chitti)
 Your personal AI assistant that can interact with your PC to automate tasks and workflows.
@@ -83,9 +111,28 @@ Multi-engine e-commerce recommendation dashboard with real-time A/B testing and 
 
 ---
 
-- **[AI-Powered Financial Insights Dashboard](https://github.com/lohith2507/rag-financial-dashboard)** - RAG pipeline over transaction data using FastAPI, React, OpenAI API, and PostgreSQL, reducing hallucinations and improving result accuracy
-- **Intelligent Code Review Assistant** - Agentic LangGraph tool that reviews PRs, flags vulnerabilities, and posts GitHub feedback, reducing manual review time
+### 📚 Other Notable Projects
+
+- **[AI-Powered Financial Insights Dashboard](https://github.com/lohith2507/rag-financial-dashboard)** - RAG pipeline over transaction data using FastAPI, React, OpenAI API, and PostgreSQL
+- **Intelligent Code Review Assistant** - Agentic LangGraph tool that reviews PRs, flags vulnerabilities, and posts GitHub feedback
+- **[CardPilot](https://github.com/lohith2507/CardPilot)** - Advanced card management system
+- **[Sentiment Analyzer](https://github.com/lohith2507/sentiment-analyzer)** - NLP-based sentiment analysis tool
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile!</i></p>
+### 🤝 Let's Connect!
+
+I'm always interested in collaborating on projects involving:
+- 🤖 AI/ML and LLM integration
+- 🏗️ Distributed systems and microservices
+- ☁️ Cloud architecture and DevOps
+- 🛠️ Developer tools and automation
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/lohithveepuri/) or [Email](mailto:lohithveepuri@gmail.com)!
+
+---
+
+<p align="center"><i>Thanks for visiting my profile! Feel free to fork, star ⭐, or follow for more!</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lohith2507&color=blueviolet" alt="Profile views" />
+</p>
