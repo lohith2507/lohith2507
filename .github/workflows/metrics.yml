@@ -2,11 +2,8 @@ name: Language Distribution Chart
 
 on:
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "0 1 * * *"
   workflow_dispatch: {}
-  push:
-    paths:
-      - '.github/workflows/metrics.yml'
 
 jobs:
   generate-language-chart:
@@ -16,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -114,9 +113,10 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output/language-chart.svg
+          git add output/language-chart.svg output/language-chart.png
           git commit -m "Update language distribution chart" --allow-empty
-          git pull origin main --rebase
+          git fetch origin main
+          git rebase origin/main
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
