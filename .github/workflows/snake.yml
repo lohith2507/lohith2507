@@ -14,10 +14,19 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout output branch
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          ref: output
+          fetch-depth: 0
+
+      - name: Prepare output branch
+        run: |
+          if git ls-remote --exit-code --heads origin output; then
+            git checkout output
+          else
+            git checkout --orphan output
+            git rm -rf . >/dev/null 2>&1 || true
+          fi
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -37,5 +46,4 @@ jobs:
             exit 0
           fi
           git commit -m "Update contribution snake animation"
-          git pull --rebase origin output || true
-          git push origin HEAD:output
+          git push -u origin HEAD:output
