@@ -36,10 +36,10 @@
 #### Overall Statistics
 <div align="center">
   <a href="https://github.com/lohith2507">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lohith2507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=lohith2507&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/lohith2507">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith2507&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lohith2507&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
 
@@ -69,7 +69,7 @@
 ### 🏆 Achievements & Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lohith2507&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" alt="Trophy" />
+  <img src="https://trophy.ryglcloud.net/?username=lohith2507&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" alt="Trophy" />
 </p>
 
 ---
