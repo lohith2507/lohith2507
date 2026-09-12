@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate activity graph
-        uses: ashutosh00710/github-readme-activity-graph@master
+        uses: ashutosh00710/github-readme-activity-graph@main
         with:
           user_name: ${{ github.repository_owner }}
           bg_color: 1a1b27
@@ -40,3 +40,4 @@ jobs:
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
