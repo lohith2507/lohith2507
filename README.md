@@ -83,7 +83,7 @@ Your personal AI assistant that can interact with your PC to automate tasks and 
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/main/.github/workflows/chitti.svg" alt="Chitti architecture" width="100%" />
 </p>
 
-#### [AI for Predictive Healthcare Diagnosis](https://github.com/lohith2507/ai-healthcare-diagnosis)
+#### 🏥 [AI for Predictive Healthcare Diagnosis](https://github.com/lohith2507/ai-healthcare-diagnosis)
 An end-to-end pipeline for predictive healthcare diagnosis including preprocessing, model comparison, and explainable results.
 
 <p align="center">
@@ -102,6 +102,7 @@ Multi-engine e-commerce recommendation dashboard with real-time A/B testing and 
 ### 📚 Other Notable Projects
 
 - **[AI-Powered Financial Insights Dashboard](https://github.com/lohith2507/rag-financial-dashboard)** - RAG pipeline over transaction data using FastAPI, React, OpenAI API, and PostgreSQL
+- **[Historic RAG](https://github.com/lohith2507/historic-rag)** - Next.js RAG over Mahabharata, Ramayana, and the Gita with Supabase and OpenRouter
 - **Intelligent Code Review Assistant** - Agentic LangGraph tool that reviews PRs, flags vulnerabilities, and posts GitHub feedback
 - **[CardPilot](https://github.com/lohith2507/CardPilot)** - Advanced card management system
 - **[Sentiment Analyzer](https://github.com/lohith2507/sentiment-analyzer)** - NLP-based sentiment analysis tool
