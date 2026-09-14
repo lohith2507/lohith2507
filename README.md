@@ -64,6 +64,8 @@
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/output/github-readme-activity-graph.svg" alt="Commit Activity Graph" />
 </p>
 
+> The activity graph is generated daily by a GitHub Actions workflow (see .github/workflows/activity-graph.yml in this repository).
+
 ---
 
 ### 🏆 Achievements & Trophy
