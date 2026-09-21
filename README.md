@@ -106,8 +106,8 @@ Multi-engine e-commerce recommendation dashboard with real-time A/B testing and 
 - **[AI-Powered Financial Insights Dashboard](https://github.com/lohith2507/rag-financial-dashboard)** - RAG pipeline over transaction data using FastAPI, React, OpenAI API, and PostgreSQL
 - **[Historic RAG](https://github.com/lohith2507/historic-rag)** - Next.js RAG over Mahabharata, Ramayana, and the Gita with Supabase and OpenRouter
 - **Intelligent Code Review Assistant** - Agentic LangGraph tool that reviews PRs, flags vulnerabilities, and posts GitHub feedback
-- **[CardPilot](https://github.com/lohith2507/CardPilot)** - Advanced card management system
-- **[Sentiment Analyzer](https://github.com/lohith2507/sentiment-analyzer)** - NLP-based sentiment analysis tool
+- **[CardPilot](https://github.com/lohith2507/CardPilot)** - Compare wallet cards at purchase time using saved earn rules and transparent reward math
+- **[Sentiment Analyzer](https://github.com/lohith2507/sentiment-analyzer)** - DistilBERT classifier for English social text (positive / neutral / negative) with a Gradio demo
 
 ---
 
