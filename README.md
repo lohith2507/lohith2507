@@ -57,14 +57,14 @@
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
-> The snake graph is generated daily by `.github/workflows/snake.yml` and published to the `output` branch.
+> The snake graph is regenerated daily at 00:00 UTC by `.github/workflows/snake.yml` (or on demand via workflow_dispatch) and published to the `output` branch.
 
 #### Activity Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/output/github-readme-activity-graph.svg" alt="Commit Activity Graph" />
 </p>
 
-> The activity graph is generated daily by `.github/workflows/activity-graph.yml` and published to the `output` branch.
+> The activity graph is regenerated daily at 01:00 UTC by `.github/workflows/activity-graph.yml` (or on demand via workflow_dispatch) and published to the `output` branch.
 
 ---
 
