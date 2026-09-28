@@ -86,7 +86,7 @@ Your personal AI assistant that can interact with your PC to automate tasks and 
 </p>
 
 #### 🏥 [AI for Predictive Healthcare Diagnosis](https://github.com/lohith2507/ai-healthcare-diagnosis)
-An end-to-end pipeline for predictive healthcare diagnosis including preprocessing, model comparison, and explainable results.
+An end-to-end pipeline for predictive healthcare diagnosis including preprocessing, model comparison, explainable results, and an optional Groq-powered symptom chatbot.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/main/.github/workflows/pipeline.svg" alt="Healthcare diagnosis pipeline" width="100%" />
