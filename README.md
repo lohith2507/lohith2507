@@ -86,7 +86,7 @@ Your personal AI assistant that can interact with your PC to automate tasks and 
 </p>
 
 #### 🏥 [AI for Predictive Healthcare Diagnosis](https://github.com/lohith2507/ai-healthcare-diagnosis)
-An end-to-end pipeline for predictive healthcare diagnosis including preprocessing, model comparison, explainable results, and an optional Groq-powered symptom chatbot.
+An end-to-end pipeline for predictive healthcare diagnosis with preprocessing, model comparison, explainable results, a React + FastAPI web UI (Streamlit optional for demos), and an optional Groq-powered symptom chatbot.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/main/.github/workflows/pipeline.svg" alt="Healthcare diagnosis pipeline" width="100%" />
@@ -127,3 +127,4 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/lohithveepuri/
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lohith2507&color=blueviolet" alt="Profile views" />
 </p>
+
