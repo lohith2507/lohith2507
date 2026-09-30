@@ -79,7 +79,7 @@
 ### 🎯 Featured Projects
 
 #### 🤖 [Chitti - Personal AI Assistant](https://github.com/lohith2507/Chitti)
-Your personal AI assistant that can interact with your PC to automate tasks and workflows.
+Windows-native Electron assistant that chats, routes across free LLMs, and controls your PC — with voice and phone access.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/main/.github/workflows/chitti.svg" alt="Chitti architecture" width="100%" />
