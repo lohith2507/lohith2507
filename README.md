@@ -103,7 +103,7 @@ Multi-engine e-commerce recommendation dashboard with real-time A/B testing and 
 
 ### 📚 Other Notable Projects
 
-- **[AI-Powered Financial Insights Dashboard](https://github.com/lohith2507/rag-financial-dashboard)** - RAG pipeline over transaction data using FastAPI, React, OpenAI API, and PostgreSQL
+- **[AI-Powered Financial Insights Dashboard](https://github.com/lohith2507/rag-financial-dashboard)** - hybrid RAG over transaction data using FastAPI, React, Groq, NVIDIA NIM embeddings, and SQLite
 - **[Historic RAG](https://github.com/lohith2507/historic-rag)** - Next.js RAG over Mahabharata, Ramayana, and the Gita with Supabase and OpenRouter
 - **Intelligent Code Review Assistant** - Agentic LangGraph tool that reviews PRs, flags vulnerabilities, and posts GitHub feedback
 - **[CardPilot](https://github.com/lohith2507/CardPilot)** - Compare wallet cards at purchase time using saved earn rules and transparent reward math
