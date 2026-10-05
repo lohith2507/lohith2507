@@ -93,7 +93,7 @@ An end-to-end pipeline for predictive healthcare diagnosis with preprocessing, m
 </p>
 
 #### 🧠 [RecommendAI - AI-Based Product Recommendation System](https://github.com/lohith2507/ml-product-recommendations)
-Multi-engine e-commerce recommendation dashboard with real-time A/B testing and an AI assistant.
+Multi-engine e-commerce recommendation dashboard (SVD collaborative filtering, TF-IDF content matching, FAISS semantic search, and a Groq-first LLM hybrid with NVIDIA NIM fallback) with real-time A/B testing and an AI assistant.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lohith2507/ml-product-recommendations/main/demo.webp" alt="RecommendAI demo" width="100%" />
