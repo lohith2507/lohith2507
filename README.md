@@ -57,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 </p>
 
-> The snake graph is regenerated daily at 00:00 UTC by `.github/workflows/snake.yml` (or on demand via workflow_dispatch) and published to the `output` branch.
+> The snake graph is regenerated daily at 00:00 UTC by `.github/workflows/snake.yml` (or on demand via workflow_dispatch) and published to the `output` branch as light and dark SVGs (`github-contribution-grid-snake.svg` and `github-contribution-grid-snake-dark.svg`); the dark variant is shown above.
 
 #### Activity Graph
 <p align="center">
