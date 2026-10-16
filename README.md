@@ -104,7 +104,7 @@ Multi-engine e-commerce recommendation dashboard (SVD collaborative filtering, T
 ### 📚 Other Notable Projects
 
 - **[AI-Powered Financial Insights Dashboard](https://github.com/lohith2507/rag-financial-dashboard)** - hybrid RAG over transaction data using FastAPI, React, Groq, NVIDIA NIM embeddings, and SQLite
-- **[Historic RAG](https://github.com/lohith2507/historic-rag)** - Next.js RAG over Mahabharata, Ramayana, and the Gita with Supabase and OpenRouter
+- **[Historic RAG](https://github.com/lohith2507/historic-rag)** - Next.js semantic search and streaming chat Q&A over the Mahabharata, Ramayana, and Bhagavad Gita, with Supabase pgvector retrieval and OpenRouter embeddings and generation
 - **Intelligent Code Review Assistant** - Agentic LangGraph tool that reviews PRs, flags vulnerabilities, and posts GitHub feedback
 - **[CardPilot](https://github.com/lohith2507/CardPilot)** - Compare wallet cards at purchase time using saved earn rules and transparent reward math, built with Next.js, Drizzle (PGlite locally, Neon in production), and Groq
 - **[Sentiment Analyzer](https://github.com/lohith2507/sentiment-analyzer)** - DistilBERT classifier for English social text (positive / neutral / negative) with a Gradio demo
