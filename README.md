@@ -48,6 +48,8 @@
   <img src="https://streak-stats.demolab.com?user=lohith2507&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </div>
 
+> The stats, top-languages, and streak cards above are rendered live by third-party services on each page view, not by a workflow in this repo, so they may lag briefly or show cached numbers.
+
 ---
 
 ### 🐍 Contribution Animations
