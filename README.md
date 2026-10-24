@@ -76,6 +76,8 @@
   <img src="https://trophy.ryglcloud.net/?username=lohith2507&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=7" alt="Trophy" />
 </p>
 
+> The trophy row is also rendered live by a third-party service on each page view, so newly earned trophies can take a little while to appear.
+
 ---
 
 ### 🎯 Featured Projects
