@@ -1,3 +1,5 @@
+# Renders the README commit-activity graph and publishes it to the `output`
+# branch as github-readme-activity-graph.svg (main is never modified).
 name: GitHub Activity Graph
 
 on:
