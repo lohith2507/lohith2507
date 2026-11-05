@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Software Engineer with 5+ years building secure, large-scale distributed systems
+- 🔭 Software Engineer with experience in building secure, large-scale distributed systems
 - 🤖 Currently focused on LLM integration, RAG pipelines, and agentic AI tooling (LangGraph, MCP, function calling)
 - 🎓 M.S. in Computer Science, University of Central Missouri
 - 💡 Interested in developer tooling, AI/ML integration, and high-availability backend systems
