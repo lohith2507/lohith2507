@@ -96,6 +96,8 @@ An end-to-end pipeline for predictive healthcare diagnosis with preprocessing, m
   <img src="https://raw.githubusercontent.com/lohith2507/lohith2507/main/.github/workflows/pipeline.svg" alt="Healthcare diagnosis pipeline" width="100%" />
 </p>
 
+> The Chitti architecture and healthcare pipeline diagrams above are static SVGs stored in `.github/workflows/` (`chitti.svg` and `pipeline.svg`), not workflow outputs, so they change only when those files are edited.
+
 #### 🧠 [RecommendAI - AI-Based Product Recommendation System](https://github.com/lohith2507/ml-product-recommendations)
 Multi-engine e-commerce recommendation dashboard (SVD collaborative filtering, TF-IDF content matching, FAISS semantic search, and a Groq-first LLM hybrid with NVIDIA NIM fallback) with real-time A/B testing and an AI assistant.
 
