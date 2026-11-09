@@ -4,6 +4,7 @@ name: GitHub Activity Graph
 
 on:
   schedule:
+    # Daily at 01:00 UTC.
     - cron: "0 1 * * *"
   workflow_dispatch: {}
   push:
