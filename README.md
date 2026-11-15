@@ -125,7 +125,7 @@ I'm always interested in collaborating on projects involving:
 - ☁️ Cloud architecture and DevOps
 - 🛠️ Developer tools and automation
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/lohithveepuri/) or [Email](mailto:lohithveepuri@gmail.com)!
+Reach out via [LinkedIn](https://www.linkedin.com/in/lohithveepuri/) or [Email](mailto:lohithveepuri@gmail.com)!
 
 ---
 
