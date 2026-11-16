@@ -119,7 +119,7 @@ Multi-engine e-commerce recommendation dashboard (SVD collaborative filtering, T
 
 ### 🤝 Let's Connect!
 
-I'm always interested in collaborating on projects involving:
+I'm always open to collaborating on projects involving:
 - 🤖 AI/ML and LLM integration
 - 🏗️ Distributed systems and microservices
 - ☁️ Cloud architecture and DevOps
