@@ -129,7 +129,7 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/lohithveepuri/) or [Email](
 
 ---
 
-<p align="center"><i>Thanks for visiting my profile! Feel free to fork, star ⭐, or follow for more!</i></p>
+<p align="center"><i>Thanks for visiting my profile! Feel free to fork, star ⭐, or follow along!</i></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lohith2507&color=blueviolet" alt="Profile views" />
 </p>
