@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lohithveepuri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/lohithv2507/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://lohithveepuri.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/lohith2507"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:lohithveepuri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -17,9 +17,9 @@
 
 - 🔭 Software Engineer with experience in building secure, large-scale distributed systems
 - 🤖 Currently focused on LLM integration, RAG pipelines, and agentic AI tooling (LangGraph, MCP, function calling)
-- 🎓 M.S. in Computer Science, University of Central Missouri
+- 🎓 M.S. in Computer Science
 - 💡 Interested in developer tooling, AI/ML integration, and high-availability backend systems
-- 📫 Reach me at lohithveepuri@gmail.com
+- 📫 Reach me at lohithdattavarmaveepuri@gmail.com
 
 ---
 
