@@ -29,6 +29,8 @@
   <img src="https://skillicons.dev/icons?i=java,py,cs,js,ts,react,fastapi,spring,docker,kubernetes,aws,azure,postgres,mongodb,git,github,githubactions,jenkins,postman&theme=dark" alt="Tech icons" />
 </p>
 
+> The tech icons above are rendered by the skillicons.dev service from the list in the image URL, so adding or removing a tool means editing that URL.
+
 ---
 
 ### 📊 GitHub Stats & Analytics
