@@ -136,3 +136,5 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/lohithveepuri/) or [Email](
   <img src="https://komarev.com/ghpvc/?username=lohith2507&color=blueviolet" alt="Profile views" />
 </p>
 
+> The profile views counter above is rendered by komarev.com from the username in the image URL, so the count is cached and may lag behind real visits.
+
